@@ -41,6 +41,13 @@ if __name__=='__main__':
    '''
    The aim of this program is to build the hierarchy of the organization
    The data provided is a big input string which is in this format 'employee boss employee_info....'
+   Sample Output for the input below
+   Mark CEO
+     Aditya VP
+       Ruchi SE
+       Smith SE
+     Boz VP
+     Larry VP
    '''
    input_string = 'Aditya Mark VP Ruchi Aditya SE Mark Mark CEO Smith Aditya SE Boz Mark VP Larry Mark VP Page Larry SE'
    build_hierarchy(input_string)
