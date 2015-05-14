@@ -11,3 +11,5 @@ Library Standard Data-structures
 Code Exercises
 1. Evaluate PostFix Expression
 2. Build Organization Hierarchy
+3. Check anagram from a list of words
+4. Find all permutations of a word
